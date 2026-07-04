@@ -1,0 +1,9 @@
+# Passwords and API keys
+.env
+
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Output folders (we don't need to save the AI's generated code to your main repo)
+modernized_output/
