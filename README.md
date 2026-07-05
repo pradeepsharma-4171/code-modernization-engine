@@ -33,5 +33,5 @@ An enterprise-grade, multi-agent AI pipeline designed to autonomously refactor l
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/code-modernization-engine.git](https://github.com/pradeepsharma-4171/code-modernization-engine.git)
+   git clone https://github.com/pradeepsharma-4171/code-modernization-engine.git
    cd code-modernization-engine
